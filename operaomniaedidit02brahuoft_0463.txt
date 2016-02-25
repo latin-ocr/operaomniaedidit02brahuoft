@@ -1,0 +1,58 @@
+ANNOTATIONES EDITORIS 447
+
+7v—10r Prosthaphaereses Lunae cum nostris pp. 111—116 congruentes, ita
+tamen, ut in editione typis descripta elongatio a centro et eccentricitas nu-
+meris allatis dentur partium radii deferentis 100000‚ illic vero allatis ⁵⁰¹- ⁰ ¹ ”,
+cum radius ponatur 60⁰ 0‘ 0¹¹. Praeterea in inaequalitate prima et variatione
+sive aequatione centri epicycli exiguae discrepantiae scrupulorum secundorum
+deprehenduntur; at eadem usurpantur elementa orbitae Lunae.
+
+ad p. 123‚⁴] Ratio Tyehonis inaequalitates nodorum atque inclinationis de-
+monstrandi sic clarius explanari potest. Lunaris or-
+bitae polus in circulo parvo moveatur, cujus diameter Α
+GC sit 19¹, centrum vero D ab Eclipticae polo Α distet
+5⁰ 8¹, quae est media Lunaris orbitae inclinatio. Polus
+autem apud G sit in syzygiis, apud C in quadraturis,
+
+ 
+
+apud F et punctum huic oppositum in octantibus, cum
+
+motus sit proportionalis 2 ((ζ- Θ). Ita angulus DAF Q„
+
+= 1⁰ 46¹ maxima est aequatio poli, ergo etiarn aequatio ,
+
+nodi Lunaris. In quovis alio puncto H angulus HAG B ’’’’’’ (Ml , NF
+aequatio nodi est, ΑΗ inclinatio orbitae, quae illo tem· s ’ 3 D ¹
+
+pore exstat, ADH duplum distantiae Lunae a conjunc-
+tione vel oppositione. Hac ratione per annos 150 cor-
+rectiones inclinationis atque nodi latitudini Lunae se-
+paratim adhibebant astronomi, donec primus Tobias
+Mayer ex utraque unam aequationem effici posse in-
+venit. Demonstrationem autem, quae sequitur, propo-
+suit LaJande (Astronomie [2. edit. Paris. 1771111p.244).
+
+Sit L Luna, E polus orbitae, quae quoque temporis momento exstat, ita ut
+LE =900. Ducatur a D arcus parvus DM arcui LE usque ad M producto
+perpendicularis; erit turn LM z LD, et EM differentia erit inter distantias a
+polo vero atque medio sive differentia inter latitudinem veram atque mediam.
+Quoniam vero AD circulus est latitudinis, qui Lunaris orbitae polos transit.
+arcus DB huic perpendicularis transibit nodos Lunares. et angulus LDB di-
+stantia erit Lunae a nodo sive argumentum latitudinis. Porro angulus ADM
+= angulus LDB; nam si ab angulis rectis ADB et LDM deducitur pars utri-
+que communis M D B, relinquuntur AD M et LD B inter se pares. Itaque A D M
+argumentum est latitudinis. Atqui ADE duplum est distantiae Lunae a Sole:
+ergo MDE duplum est hujus distantiae deducto argumento latitudinis. Cum
+vero sit ME = ED sin M DE, aequatio latitudinis est 92⁵ sin [2 (Q- Θ ) - (Q—ggll
+
+ 
+
+= 9¹.⁵ sin (<(—2 Θ -ξ- Ω); est autem Ω longitudo nodi Lunaris. Hoc vero ita
+illustrari potest, si verum polum Lunarem circa medium polum diebus 173.³1
+circulum describentem facimus, cum argumentum mutationis nodi atque in-
+clinationis sit 2 (Θ-Ω).
+
+ad p. 124, ι] »Fronti et calci ascribe: Verus motus Lunae a vero Solis« ‹Kc-pler.
+Ορ. 111 p. 702).
+
