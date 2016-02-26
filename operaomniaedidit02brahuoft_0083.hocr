@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit02brahuoft/operaomniaedidit02brahuoft_0083.png"; bbox 0 0 2164 3246; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 417 227 1774 270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 417 227 1774 270">
+     <span class='ocr_line' id='line_1_1' title="bbox 417 227 1774 270; baseline 0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 417 227 1077 268; x_wconf 86' lang='lat' dir='ltr'>PROGYMNASMATUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 1100 230 1303 268; x_wconf 87' lang='lat' dir='ltr'><strong>PRIMA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1325 231 1475 270; x_wconf 86' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1734 232 1774 270; x_wconf 90' lang='lat'><strong>71</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 413 395 1489 438">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 413 395 1489 438">
+     <span class='ocr_line' id='line_1_2' title="bbox 413 395 1489 438; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 413 395 719 435; x_wconf 85' lang='lat' dir='ltr'>GRADVVM</span> <span class='ocrx_word' id='word_1_6' title='bbox 740 396 803 435; x_wconf 87' lang='lat'><strong>23.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 835 397 1045 436; x_wconf 92' lang='lat' dir='ltr'>MINVT.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1068 399 1121 436; x_wconf 86' lang='lat'><strong>31.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1153 399 1404 438; x_wconf 88' lang='lat' dir='ltr'>SECVND.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1427 400 1489 438; x_wconf 88' lang='grc'><strong>30.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 132 543 851 545">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 132 543 851 545">
+     <span class='ocr_line' id='line_1_3' title="bbox 132 543 851 545; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 132 543 851 545; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 130 550 798 553">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 130 550 798 553">
+     <span class='ocr_line' id='line_1_4' title="bbox 130 550 798 553; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 130 550 798 553; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 45 325 1781 2580">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 45 325 1781 2580">
+     <span class='ocr_line' id='line_1_5' title="bbox 45 325 1781 2580; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 45 325 1781 2580; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1533 2586 1769 2623">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1533 2586 1769 2623">
+     <span class='ocr_line' id='line_1_6' title="bbox 1533 2586 1769 2623; baseline -0.008 0"><span class='ocrx_word' id='word_1_14' title='bbox 1533 2586 1769 2623; x_wconf 74' lang='lat' dir='ltr'>TABVLA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
